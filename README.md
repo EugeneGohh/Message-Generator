@@ -2,10 +2,10 @@
 ### _Codecademy Full Stack Engineering Career Path Portfolio Proeject_
 
 ## Contents: 
-* [Project Objectives](#)<br>
-* [Info](#)<br>
-* [Technologies Used](#)<br>
-* [Status](#)<br>
+* [Project Objectives](#Project-Objectives)<br>
+* [Info](#Info)<br>
+* [Technologies Used](#Technologies-Used)<br>
+* [Status](#Status)<br>
 
 ## Project Objectives
 * Build a message generator program using JavaScript
