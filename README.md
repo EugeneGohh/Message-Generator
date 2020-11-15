@@ -1,5 +1,5 @@
 # Mixed Message 
-### _Codecademy Full Stack Engineering Career Path Portfolio Proeject_
+### _Codecademy Full Stack Engineering Career Path Portfolio Project_
 
 ## Contents: 
 * [Project Objectives](#Project-Objectives)<br>
